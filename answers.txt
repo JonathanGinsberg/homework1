@@ -7,6 +7,7 @@ while rebasing rewrites the branch history and creates
 a linear sequence of commits.
 
 What is a remote repository?
+
 A remote repository is a Git repository that is hosted 
 on a server, which can be accessed and used by multiple 
 developers over the internet or a network. It is a centralized 
