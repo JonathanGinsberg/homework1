@@ -5,12 +5,3 @@ changes from one branch into another in Git. Merging
 creates a new commit and preserves the branch history, 
 while rebasing rewrites the branch history and creates 
 a linear sequence of commits.
-
-What is a remote repository?
-
-A remote repository is a Git repository that is hosted 
-on a server, which can be accessed and used by multiple 
-developers over the internet or a network. It is a centralized 
-location for storing the project's code and allows developers 
-to collaborate on the same codebase by pushing and pulling 
-changes to and from the remote repository. 
